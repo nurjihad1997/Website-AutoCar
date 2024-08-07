@@ -3,7 +3,7 @@ import { Button } from "./ui/button";
 
 export function OurStory() {
   return (
-    <div className="container pt-20 pb-32 grid lg:grid-cols-2 gap-10">
+    <div className="container pt-20 pb-36 grid lg:grid-cols-2 gap-10">
       {/* Image */}
       <div>
         <div className="relative h-fit w-fit">
