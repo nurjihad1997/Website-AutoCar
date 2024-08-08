@@ -8,7 +8,7 @@ export const propertyList = [
     rating: 4,
     year: 2009,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-1.jpg",
   },
   {
@@ -18,7 +18,7 @@ export const propertyList = [
     rating: 4,
     year: 2021,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-2.jpg",
   },
   {
@@ -28,7 +28,7 @@ export const propertyList = [
     rating: 4,
     year: 2019,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-3.jpg",
   },
   {
@@ -38,7 +38,7 @@ export const propertyList = [
     rating: 3,
     year: 2012,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-4.jpg",
   },
   {
@@ -48,7 +48,7 @@ export const propertyList = [
     rating: 5,
     year: 2013,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-5.jpg",
   },
   {
@@ -58,7 +58,7 @@ export const propertyList = [
     rating: 4,
     year: 2020,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-6.jpg",
   },
   {
@@ -68,7 +68,7 @@ export const propertyList = [
     rating: 3,
     year: 2018,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-7.jpg",
   },
   {
@@ -78,7 +78,7 @@ export const propertyList = [
     rating: 4,
     year: 2019,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-8.jpg",
   },
   {
@@ -88,7 +88,7 @@ export const propertyList = [
     rating: 4,
     year: 2007,
     people: 2,
-    model: "Sedan/Coupe",
+    model: "Sedan",
     image: "/Pic-9.jpg",
   },
 ];
